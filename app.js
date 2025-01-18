@@ -1,6 +1,6 @@
 const wrapperDive = document.createElement("div");
 const image = document.createElement("img");
-image.src = "./images/Man.svg";
+image.src = "./Images/Man.svg";
 
 const body = document.body;
 const h2 = document.createElement("h2");
